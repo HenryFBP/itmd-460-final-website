@@ -1,112 +1,132 @@
 Uri: http://localhost:5000/
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\index.html
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\index.html
 Content Type: text/html
 
 Uri: http://localhost:5000/static/navigation.css
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\navigation.css
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\navigation.css
 Content Type: text/css
 
 Uri: http://localhost:5000/static/base.css
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\base.css
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\base.css
+Content Type: text/css
+
+Uri: http://localhost:5000/static/style.css
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\style.css
 Content Type: text/css
 
 Uri: http://localhost:5000/static/prism.css
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\prism.css
-Content Type: text/css
-
-Uri: https://fonts.googleapis.com/css?family=Ubuntu
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\css.css
-Content Type: text/css
-
-Uri: https://fonts.googleapis.com/css?family=Cousine
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\css-1.css
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\prism.css
 Content Type: text/css
 
 Uri: http://localhost:5000/index
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\index-1.html
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\index-1.html
 Content Type: text/html
 
 Uri: http://localhost:5000/setup
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\setup.html
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\setup.html
 Content Type: text/html
 
 Uri: http://localhost:5000/your_first_app
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\your_first_app.html
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\your_first_app.html
 Content Type: text/html
 
 Uri: http://localhost:5000/coding_primer
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\coding_primer.html
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\coding_primer.html
 Content Type: text/html
 
-Uri: http://henryfbp.me/
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\index-2.html
+Uri: http://localhost:5000/examining_our_app
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\examining_our_app.html
 Content Type: text/html
 
 Uri: http://localhost:5000/static/prism.js
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\prism.txt
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\prism.txt
 Content Type: text/plain
 
-Uri: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\ajax\libs\mathjax\2.7.5\MathJax.js
-Content Type: application/javascript
-
-Uri: https://www.youtube.com/embed/videoseries?list=PLxhBPQszJILuNR6bBvB6Y4Aw7mYPbvVdA
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\embed\videoseries.html
-Content Type: text/html
-
-Uri: https://www.youtube.com/watch?v=1iN8voA_oy8
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\watch.html
-Content Type: text/html
-
-Uri: https://developer.android.com/studio/
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\studio\index.html
-Content Type: text/html
-
-Uri: https://www.youtube-nocookie.com/embed/1iN8voA_oy8
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\embed\1iN8voA_oy8.html
-Content Type: text/html
-
 Uri: http://localhost:5000/static/media/installing/site.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\site.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\site.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/download_toc.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\download_toc.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\download_toc.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/open.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\open.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\open.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/next.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\next.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\next.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/finish.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\finish.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\finish.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/import.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\import.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\import.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/wiz.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\wiz.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\wiz.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/installing/welcome.png
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\installing\welcome.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\installing\welcome.png
 Content Type: image/png
 
 Uri: http://localhost:5000/static/media/your_first_app/1.PNG
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\static\media\your_first_app\1.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\1.png
 Content Type: image/png
 
-Uri: https://www.youtube.com/watch?v=X6z7jwdgAi4
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\watch-1.html
-Content Type: text/html
+Uri: http://localhost:5000/static/media/your_first_app/1a.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\1a.png
+Content Type: image/png
 
-Uri: https://www.youtube-nocookie.com/embed/X6z7jwdgAi4
-File Name: P:\GitHub\itmd-460\assignments\final\static_website\localhost\embed\X6z7jwdgAi4.html
-Content Type: text/html
+Uri: http://localhost:5000/static/media/your_first_app/2.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\2.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/3a.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\3a.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/3b.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\3b.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/5.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\5.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/5a.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\5a.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/5b.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\5b.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/5c.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\5c.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/6.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\6.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/7.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\7.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/your_first_app/WOOHOO.PNG
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\your_first_app\WOOHOO.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/action_bar.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\action_bar.png
+Content Type: image/png
+
+Uri: http://localhost:5000/static/media/layout.png
+File Name: P:\GitHub\itmd-460\assignments\final\localhost\static\media\layout.png
+Content Type: image/png
 
